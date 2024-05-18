@@ -132,3 +132,18 @@ header .container .col-md-7 h1{
 .section-4 .card .card-body{
 
 }
+
+
+footer{
+    background: rgb(39, 38, 38);
+    overflow-x: hidden;
+    padding: 15vmin 18vmin;
+}
+
+footer .column i{
+    color: #ffffff;
+}
+
+footer .colomn i+i{
+    padding-right: 5px;
+}
